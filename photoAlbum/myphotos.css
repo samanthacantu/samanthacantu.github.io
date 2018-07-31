@@ -1,0 +1,33 @@
+body {
+	background-color: #cc66ff;
+	text-align: center;
+	font-family: 'Creepster', cursive;
+	-webkit-text-stroke: 2px lime;
+	background-image:url(stars.gif) ;
+}
+
+img {
+	border: 2px white solid;
+}
+.photo {
+	border: solid 8px lime;
+	display: inline-block;
+	width:30%;
+	margin:auto;
+}
+.gallery {
+	text-align: center;
+}
+h1 {
+	 -webkit-text-stroke: 2px lime;
+}
+iframe {
+	border: 7px lime solid;
+}
+@media only screen and (max-width:600px) {
+	.photo {
+		border:solid 2px white;
+		width:80%;
+		display:block;
+		margin:auto;
+	}

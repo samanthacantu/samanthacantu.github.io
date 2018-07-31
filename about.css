@@ -1,0 +1,32 @@
+body {
+	background-color:#ff9900;
+	font-family: 'Press Start 2P', cursive;
+	text-align:center;
+	color:#6600ff;
+}
+h2 {
+	text-align:center;
+	border-top-left-radius: 10px;
+	border-top-left-radius: 5px;
+	background-color:#ffb84d;
+	text-decoration: underline overline;
+}
+.top_nav_item {
+	margin:15px;
+	color:#6600ff;
+	text-decoration: none;
+}
+.top_nav_item:hover {
+	margin:15px;
+	color:lime;
+	text-decoration: none;
+}
+img {border:#6600ff 4px solid;     
+}
+#current_page {
+	text-decoration:underline;
+	border-bottom: 3px solid #6600ff;
+}
+iframe { 
+	border:#6600ff 2px solid;	
+}

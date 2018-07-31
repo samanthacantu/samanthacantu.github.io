@@ -1,0 +1,44 @@
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	text-decoration: underline overline;
+	border-top-left-radius: 10px;
+	border-top-left-radius: 5px;
+	background-color: #4db8ff;
+
+}
+body {
+	background-color:#3399ff;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color:#ffcc00;
+}
+.top_nav_item {
+	margin:15px;
+	color:#ffcc00;	
+	text-decoration: none;
+}
+.top_nav_item:hover {
+	margin:15px;
+	color:#ff0000;
+	text-decoration: none;
+}
+#current_page {
+	text-decoration: underline;
+	border-bottom:3px solid #ff0000;
+}
+table, td {
+	border:2px red solid;
+}
+table {
+	border-collapse: collapse;
+	margin:auto;
+	width: 80%;
+	text-align:center;
+}
+#col1{
+	width:40%;
+}
+#col2, #col3 {
+	width:30%;
+}

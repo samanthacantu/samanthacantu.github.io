@@ -1,0 +1,27 @@
+body {background-color:pink;
+	  font-family:'Press Start 2P' cursive;
+	}
+#light {
+	background-color:rgba(0,0,0,0.6);
+	border: 2px solid black;
+	width: 20%;
+	box-shadow: 5px 5px 5px black;
+	margin:auto
+}
+.circle {
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	margin: 20px auto;
+	border-radius: 50%
+}
+
+#red:hover {background-color: rgb(255,0,0);
+}
+h1 {text-decoration: underline;
+	text-align:center;
+}
+#yellow:hover {background-color:rgb(244, 254, 1);
+}
+#green:hover {background-color:rgb(5, 201, 1);
+}

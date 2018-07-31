@@ -1,0 +1,33 @@
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: #99e6ff;
+	text-decoration: underline overline;
+	border-top-left-radius: 10px;
+	border-top-left-radius: 5px;
+	background-color:#ff80d5;
+}
+
+body {
+	background-color: #ff66cc;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: #99e6ff;
+}
+.top_nav_item {
+	margin:15px;
+	color: #99e6ff;
+	text-decoration: none;
+}
+.top_nav_item:hover {
+	margin:15px;
+	color: #cc00cc;
+	text-decoration: none;
+}
+#current_page {
+	text-decoration: underline;
+	border-bottom:3px solid #cc00cc;
+}
+iframe {
+	border:#cc00cc 4px solid;
+}
